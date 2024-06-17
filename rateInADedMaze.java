@@ -2,8 +2,8 @@ public class rateInADedMaze {
     public static void main(String[] args) {
         
     
-    int col = 4;
-    int row = 6;
+    int col = 6;
+    int row = 4;
     int [][] maze = {
         {1,0,1,1,1,1},
         {1,1,1,1,0,1},
